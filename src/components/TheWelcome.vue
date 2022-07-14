@@ -82,7 +82,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
+    <template #heading>Dont Support Vue</template>
 
     As an independent project, Vue relies on community backing for its
     sustainability. You can help us by
