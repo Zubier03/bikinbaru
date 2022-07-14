@@ -45,7 +45,7 @@ import SupportIcon from "./icons/IconSupport.vue";
     <template #icon>
       <EcosystemIcon />
     </template>
-    <template #heading>Ecosystem</template>
+    <template #heading>Ecosystem Vue JS</template>
 
     Get official tools and libraries for your project:
     <a target="_blank" href="https://pinia.vuejs.org/">Pinia</a>,
